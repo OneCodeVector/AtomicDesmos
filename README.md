@@ -1,18 +1,18 @@
 # Atom (AtomicDesmos) 
 Atom is the collection of three JS modules all meant to add a unique JS programming experience into Desmos and improve the overall quality of the site.
 
-# Proton
+# Proton (Pre-Release)
 Proton is a wrapper arround the Desmos API that lets you use JS to create displays instead of expressions. You take care of the design, we take care of the math.
 
-# Neutron
+# Neutron (Boilerplate-Release)
 Neutron is the Atom code editor. Neutron's only purpose is to provide an attiquite development environment, and satisfy your every day JS programmer while also keeping in mind the Desmos hobbyists.
 
-# Electron
+# Electron (Pre-Development)
 Electron is made to improve the user experience of the Desmos website. Adding many unique features and utilities to Desmos such as code sharing and UI navigation menus.
 
 # Info / Notes
 More info on each specific module is inside it's respected folder.  
-These are not the development versions of the modules and only realeases
+These are not the development versions of the modules and only realeases.
 
 # How To Help
 Below is the three modules and the help wanted for development on them. All contributers get credited for their work, and will be put on the credits UI.  
