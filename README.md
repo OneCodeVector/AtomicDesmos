@@ -45,3 +45,7 @@ For more info on any of these, or to claim your spot working with AtomicDesmos, 
 * Sugestion Reviewer
 * Application Testers
 * Markdown Writer
+
+# Credits
+* NotAnDonkey#6764 (me) - So far created everything, hopefully can get some help though.
+* NecroMonster#7054     - Taught me 3D mathematics
